@@ -32,8 +32,8 @@ Site statique (HTML/CSS/JS, aucune dépendance) prêt pour **GitHub Pages**.
 
 ## Formulaire de contact
 
-Le formulaire utilise [FormSubmit](https://formsubmit.co) (gratuit, sans inscription) et envoie les messages à **coorsante@gmail.com**.
-**Important :** lors du tout premier envoi, FormSubmit adresse un e-mail de confirmation à coorsante@gmail.com – cliquez sur le lien d'activation. Les messages suivants arriveront directement.
+Le formulaire utilise [FormSubmit](https://formsubmit.co) (gratuit, sans inscription) et envoie les messages à **contact@coorsante.fr**.
+**Important :** lors du tout premier envoi, FormSubmit adresse un e-mail de confirmation à contact@coorsante.fr – cliquez sur le lien d'activation. Les messages suivants arriveront directement.
 
 ## Modifier le site
 
