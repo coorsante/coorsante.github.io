@@ -10,7 +10,7 @@ Site statique (HTML/CSS/JS, aucune dépendance) prêt pour **GitHub Pages**.
 | `index.html` | Page principale (logo animé intégré) |
 | `styles.css` | Mise en forme – couleurs modifiables en haut du fichier (`:root`) |
 | `script.js` | Animation du logo, menu mobile, apparitions au défilement |
-| `mentions-legales.html` | Mentions légales et RGPD (**SIRET, statut et adresse à compléter**) |
+| `mentions-legales.html` | Mentions légales et RGPD |
 | `merci.html` | Page affichée après l'envoi du formulaire |
 | `assets/` | Logo vectoriel (SVG), favicon, image de partage réseaux sociaux |
 | `.nojekyll` | Indique à GitHub de publier les fichiers tels quels |
